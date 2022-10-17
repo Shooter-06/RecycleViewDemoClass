@@ -21,7 +21,15 @@ public class MainActivity extends AppCompatActivity {
         myList.add("lion");
         myList.add("lion");
         myList.add("lion");
-        myList.add("lion");myList.add("lion");
+        myList.add("lion");
+        myList.add("lion");
+        myList.add("lion");
+        myList.add("lion");
+        myList.add("lion");
+        myList.add("lion");
+        myList.add("lion");
+        myList.add("lion");
+        myList.add("lion");
         myList.add("lion");
         myList.add("lion");
 
